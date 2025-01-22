@@ -1,4 +1,4 @@
-# Workshop Preparation Guide
+# Workshop Preparation Guide [DRAFT]
 
 This README outlines the high-level tasks for preparing a workshop scheduled from **09:00 to 15:00**. The workshop will cover essential topics related to Git, GitHub, PowerShell, and SharePoint, along with an introduction to share.koksmat.com.
 
