@@ -1,12 +1,24 @@
-# Workshop Preparation Guide [DRAFT]
+---
+title: Mastering GitHub and SharePoint Automation
+status: draft
+---
+# From Zero to Hero: Mastering GitHub and SharePoint Automation
 
-This README outlines the high-level tasks for preparing a workshop scheduled from **09:00 to 15:00**. The workshop will cover essential topics related to Git, GitHub, PowerShell, and SharePoint, along with an introduction to share.koksmat.com.
+**Empowering Microsoft 365 and SharePoint Professionals**
+
+---
+
+## Introduction
+
+Welcome to the "From Zero to Hero" workshop! This session is tailored for professionals working with **Microsoft 365** and **SharePoint**, whether you are an experienced user or just getting started. **No prior PowerShell knowledge is required**—we'll guide you step-by-step to build confidence and practical skills.
+
+This workshop is designed to enhance your productivity and streamline your processes. From understanding version control to automating SharePoint tasks, you will leave equipped with actionable insights and hands-on experience.
 
 ---
 
 ## Workshop Agenda
 
-### 1. Introduction to Git and GitHub
+### 1. Introduction to Git, GitHub, and Code Spaces
 
 - **Time:** 09:00 - 10:00
 - Topics:
@@ -15,40 +27,23 @@ This README outlines the high-level tasks for preparing a workshop scheduled fro
   - Setting up a GitHub account.
   - Basics of version control.
   - Creating your first repository.
+  - Starting a Code Space.
   - Cloning and pushing changes.
 
-### 2. Visual Studio Code and Code Spaces
+**Break:** 10:00 - 10:15
 
-- **Time:** 10:00 - 10:45
-- Topics:
-  - Installing and setting up Visual Studio Code.
-  - Overview of extensions for Git and PowerShell.
-  - Introduction to GitHub Codespaces.
-  - Hands-on: Launching and working in a Codespace.
+### 2. Connecting to SharePoint Using PowerShell
 
-### 3. PowerShell Fundamentals
-
-- **Time:** 10:45 - 11:30
-- Topics:
-  - Introduction to PowerShell.
-  - Basic syntax and commands.
-  - Navigating directories and managing files.
-  - Running scripts and using modules.
-
-**Break:** 11:30 - 12:00
-
-### 4. Connecting to SharePoint using PowerShell
-
-- **Time:** 12:00 - 12:30
+- **Time:** 10:15 - 11:00
 - Topics:
   - Overview of SharePoint Online Management Shell.
   - Installing required PowerShell modules.
   - Connecting to a SharePoint tenant.
   - Understanding authentication and permissions.
 
-### 5. PowerShell Case: Working with SharePoint Lists
+### 3. PowerShell Case Study: Working with SharePoint Lists
 
-- **Time:** 12:30 - 14:00
+- **Time:** 11:00 - 12:30
 - Topics:
   - Creating a SharePoint list using PowerShell.
   - Inserting items into the list.
@@ -57,9 +52,28 @@ This README outlines the high-level tasks for preparing a workshop scheduled fro
   - Deleting items.
   - Error handling and logging.
 
+**Lunch Break:** 12:30 - 13:00
+
+### 4. GitHub Actions
+
+- **Time:** 13:00 - 13:45
+- Topics:
+  - Defining a workflow.
+  - Handling variables and secrets.
+  - Starting workflows.
+  - Troubleshooting.
+
+### 5. Debugging GitHub Action Code
+
+- **Time:** 13:45 - 14:30
+- Topics:
+  - Debugging techniques.
+  - Understanding logs.
+  - Using tools for better insights.
+
 ### 6. Introducing share.koksmat.com
 
-- **Time:** 14:00 - 15:00
+- **Time:** 14:30 - 15:00
 - Topics:
   - Overview of share.koksmat.com.
   - Features and use cases.
@@ -81,7 +95,6 @@ This README outlines the high-level tasks for preparing a workshop scheduled fro
 - Slides for each topic.
 - Handouts or guides for:
   - Git and GitHub basics.
-  - Visual Studio Code setup.
   - PowerShell commands and scripts.
   - SharePoint connection and management.
 - Pre-written PowerShell scripts for SharePoint case exercises.
@@ -91,9 +104,8 @@ This README outlines the high-level tasks for preparing a workshop scheduled fro
 1. Ensure all participants have:
    - A laptop with administrative access.
    - Internet connectivity.
-   - Required software installed (e.g., Visual Studio Code, PowerShell modules).
-2. Create a sample SharePoint site for hands-on tasks.
-3. Prepare accounts and permissions for accessing share.koksmat.com.
+
+2. Create a sample SharePoint site for hands-on tasks (using Microsoft 365 Enterprise Demo Content from Microsoft Customer Digital Experiences).
 
 ### Technical Requirements
 
@@ -112,6 +124,4 @@ This README outlines the high-level tasks for preparing a workshop scheduled fro
 ---
 
 Happy Workshop Planning! 🎉
-
-
 
